@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSubstituteReturnsConsecutive", "NSubstituteReturnsConsecutive\NSubstituteReturnsConsecutive.csproj", "{57680567-B062-4A85-B8F8-1D3127BD2DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSubstituteReturnsConsecutive.UnitTests", "NSubstituteReturnsConsecutive.UnitTests\NSubstituteReturnsConsecutive.UnitTests.csproj", "{F6BC9DA2-C6E0-4495-8DB4-B763670E485F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57680567-B062-4A85-B8F8-1D3127BD2DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57680567-B062-4A85-B8F8-1D3127BD2DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57680567-B062-4A85-B8F8-1D3127BD2DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57680567-B062-4A85-B8F8-1D3127BD2DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6BC9DA2-C6E0-4495-8DB4-B763670E485F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BC9DA2-C6E0-4495-8DB4-B763670E485F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BC9DA2-C6E0-4495-8DB4-B763670E485F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BC9DA2-C6E0-4495-8DB4-B763670E485F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
